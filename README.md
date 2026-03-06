@@ -1,7 +1,6 @@
 # Hello, I'm Twinkle Gaur 👋
 
-Welcome to my GitHub profile! I'm a Aspiring Data Scientist/Data Analyst . Here, you’ll find a collection of my projects and contributions to the open-source community. 🚀
-
+Aspiring Machine Learning Engineer | Python, Data Analysis & ML Projects | Exploring AI, NLP, and Predictive Modeling. Open-source contributions and ML experiments showcased here.
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, HTML ,CSS
@@ -11,8 +10,10 @@ Welcome to my GitHub profile! I'm a Aspiring Data Scientist/Data Analyst . Here,
 
 ## 🌟 Highlights
 
-- **[amazon job dataset](http://localhost:8888/notebooks/amazon%20job%20dataset.ipynb): This project involves analyzing job postings from various locations and roles to derive insights into job requirements and trends. The dataset includes detailed information about job titles, locations, posting dates, descriptions, and qualifications. 
+- **[amazon job dataset](http://localhost:8888/notebooks/amazon%20job%20dataset.ipynb): This project involves analyzing job postings from various locations and roles to derive insights into job requirements and trends. The dataset includes detailed information about job titles, locations, posting dates, descriptions, and qualifications.
 
+- **[SMS Spam Detection](notebooks/SMS_Spam_Detection.ipynb)**  
+  Developed a text classification ML model to detect spam messages using Naive Bayes and Logistic Regression. Includes data preprocessing, feature extraction, model evaluation, and visualizations. 
 ### Technologies Used
 
 - **Python:** For data manipulation and analysis.
